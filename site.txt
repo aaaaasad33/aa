@@ -1,1 +1,1 @@
-txtCallback('www.xgsp1.xyz')
+www.xgsp1.xyz
